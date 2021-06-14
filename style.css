@@ -118,7 +118,7 @@ div.productImage img {
 
 
 /*Mobile*/
-@media screen and (max-width: 786px) {
+@media screen and (max-width: 420px) {
     div.dkLogo img {
         width: 90%;
     }
