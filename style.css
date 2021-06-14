@@ -53,7 +53,7 @@ button {
 div.points ul li {
     font-size: 23px;
     line-height: 1.2;
-    text-align: justify;
+    text-align: left;
 }
 
 div.productImage img {
@@ -62,7 +62,8 @@ div.productImage img {
 }
 
 .clickHere {
-    background-color: #ebcf34;
+    background-color: #ffb300;
+    color: #000000;
     display: block;
     margin: auto;
 }
@@ -117,7 +118,7 @@ div.productImage img {
 
 
 /*Mobile*/
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 786px) {
     div.dkLogo img {
         width: 90%;
     }
